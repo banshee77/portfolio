@@ -1,0 +1,20 @@
+.section_fiction {
+    font-size: 4.2rem;
+    min-height: 50vh;
+    position: relative;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-image: url("../../images/section_fiction.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .section_text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+    color: rgb(236, 240, 241);
+  }
+  

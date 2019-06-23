@@ -1,0 +1,17 @@
+.section__heading_largest {
+    float: left;
+    font-size: 5rem;
+    margin-left: 2rem;
+    color: rgb(52, 152, 219);
+    font-family: 'Cardo', serif;    
+  }
+
+  .section_social {
+    float: right;
+    line-height: 10rem;
+    margin-right: 2rem;
+  }
+  
+  .overflow_auto {
+    overflow: auto;
+  }

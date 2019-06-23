@@ -1,0 +1,13 @@
+.social {
+    margin-right: 0.75rem;
+    color: rgb(52, 152, 219);
+  }
+  
+  .socialWrapper:last-child .social {
+    margin-right: 0;
+  }
+  
+  .socialWrapper {
+    display: inline-block;
+    font-size: 3rem;
+  }
